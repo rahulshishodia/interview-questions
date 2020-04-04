@@ -10,3 +10,4 @@
     8. What is role of a constructor in java class?
     9. Can we overload a constructor in java class?
     10. Can a constructor be private? If yes, what is the use case for it?
+    11. Does constructor return any value?
